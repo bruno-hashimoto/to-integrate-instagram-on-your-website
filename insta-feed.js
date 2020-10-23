@@ -1,6 +1,6 @@
 // Controles 
-var usuario_instagram = "brunomuniz"
-var qtd_itens = 13; // MAX 12
+var usuario_instagram = "Digite seu username do Instagram"
+var qtd_itens = 6; // MAX 12
 var img_width = '188px';
 var img_height = '188px';
 var img_padding = '5px';
