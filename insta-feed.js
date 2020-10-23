@@ -1,9 +1,9 @@
 // Controles 
 var usuario_instagram = "Digite seu username do Instagram"
 var qtd_itens = 6; // MAX 12
-var img_width = '188px';
-var img_height = '188px';
-var img_padding = '5px';
+var img_width = "188px";
+var img_height = "188px";
+var img_padding = "5px";
 
 // Estilo do conteúdo
 const css =
